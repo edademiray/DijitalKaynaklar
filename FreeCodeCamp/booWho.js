@@ -5,7 +5,7 @@ function booWho(bool) {
   return false;
 }
 
-booWho(null);
+booWho(null); // should return false.
 
 /* 
 Check if a value is classified as a boolean primitive. Return true or false.
